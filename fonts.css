@@ -107,12 +107,6 @@
    font-style: italic;
 }
 @font-face {
-   font-family: "Akhand-Bold";
-   src: url("fonts/u261eAkhand Bold.woff") format("woff"), url("fonts/u261eAkhand Bold.eot") format("embedded-opentype"), url("fonts/u261eAkhand Bold.otf") format("opentype");
-   font-weight: bold;
-   font-style: normal;
-}
-@font-face {
    font-family: "Roboto Medium";
    src: url("fonts/Roboto Medium Italic.woff") format("woff"), url("fonts/Roboto Medium Italic.eot") format("embedded-opentype"), url("fonts/Roboto Medium Italic.ttf") format("truetype"), url("fonts/Roboto Medium Italic.svg") format("svg");
    font-weight: normal;
@@ -122,5 +116,11 @@
    font-family: "Roboto Medium";
    src: url("fonts/Roboto Medium.woff") format("woff"), url("fonts/Roboto Medium.eot") format("embedded-opentype"), url("fonts/Roboto Medium.ttf") format("truetype"), url("fonts/Roboto Medium.svg") format("svg");
    font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Akhand-Bold";
+   src: url("fonts/u261eAkhand Bold.woff") format("woff"), url("fonts/u261eAkhand Bold.eot") format("embedded-opentype"), url("fonts/u261eAkhand Bold.otf") format("opentype");
+   font-weight: bold;
    font-style: normal;
 }
