@@ -4,12 +4,13 @@
 
 ### URL
 LinkBehaviour_C52CA2FA_CA9E_367A_41B4_1984A53FD921.source = https://achadodigital.com.br/pagina-exemplo/
+LinkBehaviour_C41E5025_CA92_518E_41B9_76279A988492.source = https://achadodigital.com.br/pagina-exemplo/
 LinkBehaviour_D9F19945_CA8E_538E_41E6_95868D9EBD2B.source = https://achadodigital.com.br/pagina-exemplo/
 LinkBehaviour_DBDBF71C_CAD6_5F68_41E6_0FF960B7BF15.source = https://achadodigital.com.br/pagina-exemplo/
-LinkBehaviour_C41E5025_CA92_518E_41B9_76279A988492.source = https://achadodigital.com.br/pagina-exemplo/
 LinkBehaviour_DBD76E74_C663_9CBE_41C1_A4F1D0148263.source = https://cardapio.menu/restaurants/piracicaba/fruta-gurt
 LinkBehaviour_B82B0A60_B71E_5208_41B0_B7F11E048E46.source = https://cardapio.menu/restaurants/piracicaba/fruta-gurt
 LinkBehaviour_DF854973_CAD2_73B8_41E2_645EAB08F7A1.source = https://www.bild.com.br/
+LinkBehaviour_D55CD608_CB7E_D168_41DC_634B65E98D0D.source = https://www.bild.com.br/
 LinkBehaviour_DB213E4A_C663_9CEA_41E3_0F5AC7F517E6.source = https://www.facebook.com/FrutaGurt/
 LinkBehaviour_B82AAA5F_B71E_5238_41A9_EFD7B668C80E.source = https://www.facebook.com/FrutaGurt/
 PopupWebFrameBehaviour_E13330F8_C63E_E5B6_41C0_E73085E56E8C.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.3088236811263!2d-47.64092432469516!3d-22.716760079389253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c631a26413c4b1%3A0xac18284ac1fa03f6!2sFruta%20Gurt!5e0!3m2!1spt-BR!2sbr!4v1699841308185!5m2!1spt-BR!2sbr
@@ -37,12 +38,12 @@ album_DDD21709_C662_6C56_41D1_8FB894FE77DD.label = Álbum de Fotos Ambiente
 ## Skin
 
 ### Button
-Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = 360º  VISTAS
-Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = 360º  VISTAS
-Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = IMAGENS
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = COMPARTILHAR
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = COMPARTILHAR
 Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = IMAGENS
-Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFO
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = IMAGENS
 Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = INFO
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFO
 Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = LOCAL
 Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9_mobile.label = LOCAL
 Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = SAIBA MAIS
