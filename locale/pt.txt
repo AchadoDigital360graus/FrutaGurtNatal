@@ -5,22 +5,22 @@
 ### URL
 LinkBehaviour_939B9D3A_DBFB_A977_41C9_5E4063DB0741.source = <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.3088236811263!2d-47.64092432469516!3d-22.716760079389253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c631a26413c4b1%3A0xac18284ac1fa03f6!2sFruta%20Gurt!5e0!3m2!1spt-BR!2sbr!4v1700174781965!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 LinkBehaviour_90B0E6D2_DBFA_DB36_41A0_247F1076694D.source = <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.3088236811263!2d-47.64092432469516!3d-22.716760079389253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c631a26413c4b1%3A0xac18284ac1fa03f6!2sFruta%20Gurt!5e0!3m2!1spt-BR!2sbr!4v1700174781965!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-LinkBehaviour_C52CA2FA_CA9E_367A_41B4_1984A53FD921.source = https://achadodigital.com.br/pagina-exemplo/
-LinkBehaviour_DBDBF71C_CAD6_5F68_41E6_0FF960B7BF15.source = https://achadodigital.com.br/pagina-exemplo/
 LinkBehaviour_D9F19945_CA8E_538E_41E6_95868D9EBD2B.source = https://achadodigital.com.br/pagina-exemplo/
+LinkBehaviour_DBDBF71C_CAD6_5F68_41E6_0FF960B7BF15.source = https://achadodigital.com.br/pagina-exemplo/
+LinkBehaviour_C52CA2FA_CA9E_367A_41B4_1984A53FD921.source = https://achadodigital.com.br/pagina-exemplo/
 LinkBehaviour_FF2027F4_CBF6_3EB8_41E8_9940B739FF2B.source = https://api.whatsapp.com/send?phone=&text=%20https://achadodigital360graus.github.io/FrutaGurtNatal/%20
 LinkBehaviour_F8D540FC_CBF6_32A8_41E2_9977359B8276.source = https://api.whatsapp.com/send?phone=&text=%20https://achadodigital360graus.github.io/FrutaGurtNatal/%20
 LinkBehaviour_FEE59FFC_CBD1_CEA8_41DF_D3C786E5F0D5.source = https://bild.com.br
 LinkBehaviour_B82B0A60_B71E_5208_41B0_B7F11E048E46.source = https://cardapio.menu/restaurants/piracicaba/fruta-gurt
 LinkBehaviour_DBD76E74_C663_9CBE_41C1_A4F1D0148263.source = https://cardapio.menu/restaurants/piracicaba/fruta-gurt
-LinkBehaviour_E1CC3644_D8BD_FB12_41BD_C4C2FA1604F3.source = https://vittaresidencial.com.br/piracicaba
-LinkBehaviour_C954E0FE_D890_ED6F_41E6_29DE2495701B.source = https://vittaresidencial.com.br/piracicaba
 LinkBehaviour_E1D61E04_DB6E_6B12_41D9_9DCFE1841926.source = https://vittaresidencial.com.br/piracicaba
+LinkBehaviour_C954E0FE_D890_ED6F_41E6_29DE2495701B.source = https://vittaresidencial.com.br/piracicaba
+LinkBehaviour_E1CC3644_D8BD_FB12_41BD_C4C2FA1604F3.source = https://vittaresidencial.com.br/piracicaba
 LinkBehaviour_D55CD608_CB7E_D168_41DC_634B65E98D0D.source = https://www.bild.com.br/
-LinkBehaviour_DB213E4A_C663_9CEA_41E3_0F5AC7F517E6.source = https://www.facebook.com/FrutaGurt/
 LinkBehaviour_B82AAA5F_B71E_5238_41A9_EFD7B668C80E.source = https://www.facebook.com/FrutaGurt/
-PopupWebFrameBehaviour_E170E4C4_C6E2_EDDE_41D9_A900155C2DA7.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.3088236811263!2d-47.64092432469516!3d-22.716760079389253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c631a26413c4b1%3A0xac18284ac1fa03f6!2sFruta%20Gurt!5e0!3m2!1spt-BR!2sbr!4v1700089522563!5m2!1spt-BR!2sbr
+LinkBehaviour_DB213E4A_C663_9CEA_41E3_0F5AC7F517E6.source = https://www.facebook.com/FrutaGurt/
 PopupWebFrameBehaviour_E13330F8_C63E_E5B6_41C0_E73085E56E8C.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.3088236811263!2d-47.64092432469516!3d-22.716760079389253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c631a26413c4b1%3A0xac18284ac1fa03f6!2sFruta%20Gurt!5e0!3m2!1spt-BR!2sbr!4v1700089522563!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_E170E4C4_C6E2_EDDE_41D9_A900155C2DA7.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.3088236811263!2d-47.64092432469516!3d-22.716760079389253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c631a26413c4b1%3A0xac18284ac1fa03f6!2sFruta%20Gurt!5e0!3m2!1spt-BR!2sbr!4v1700089522563!5m2!1spt-BR!2sbr
 LinkBehaviour_B82A7A5F_B71E_5238_41E2_3E1754F4F65A.source = https://www.instagram.com/frutagurt/
 LinkBehaviour_F24FF50D_CB53_D36B_41E8_D521CC4A6308.source = https://www.instagram.com/frutagurt/
 LinkBehaviour_DB21EE49_C663_9CD6_41CB_4B989DF59E7C.source = https://www.instagram.com/frutagurt/
@@ -42,14 +42,14 @@ audiores_C7179154_D5E2_2002_41DD_38C3756C1100.mp3Url = media/audio_C4881827_D5E2
 audiores_C7695016_D5E2_200E_41CC_073E6F55DD32.mp3Url = media/audio_C777346D_D5E2_E002_41B8_59881152567D_pt.mp3
 
 ### Image
-imlevel_EBE4C66E_D8EA_5BEF_41DE_59C526221746.url = media/panorama_C532F495_D304_9587_41B9_E0A267A874AC_HS_e1001jo9_pt.png
-imlevel_EBA2D6EA_D8EA_5B17_41D1_81466BC3E56B.url = media/panorama_C759E269_D304_8C8E_41E9_A5ADFA6853B5_HS_w0vstqbe_pt.png
-imlevel_EABC49DC_D8EA_A933_41DD_7202FF0FB888.url = media/panorama_C75E1B22_D30C_7CBD_41D6_A62810BD069E_HS_6jtk5q2y_pt.png
-imlevel_EB1187C3_D8EA_5915_41D5_AFDE08CBA88E.url = media/panorama_C75E3C67_D303_9482_41E3_1FA48FB0A2B3_HS_5y058i2e_pt.png
-imlevel_EBA46754_D8EA_5933_41C7_369B3D061378.url = media/panorama_C75E3C67_D303_9482_41E3_1FA48FB0A2B3_HS_r63jees2_pt.png
-imlevel_EABA2934_D8EA_A973_41E9_D21EAC87A9B6.url = media/panorama_C75E7BC3_D303_F382_41E7_A454F4229DF5_HS_wwn88gls_pt.png
-imlevel_EB8CC6B4_D8EA_5B73_41B3_7479DC07E86E.url = media/panorama_CB2EF29B_D304_8D82_41E6_923612B77B4D_HS_83ww8rg5_pt.png
-imlevel_EABA9962_D8EA_A917_41C4_C7D74C6D6D67.url = media/panorama_F3A0FC3C_D304_9486_41D8_7E594F9DE728_HS_6l3i88p2_pt.png
+imlevel_CB583240_DB23_5608_41E4_8F84A6898A51.url = media/panorama_C532F495_D304_9587_41B9_E0A267A874AC_HS_e1001jo9_pt.png
+imlevel_CB99D2CF_DB23_5618_41E6_77E4E0381F23.url = media/panorama_C759E269_D304_8C8E_41E9_A5ADFA6853B5_HS_w0vstqbe_pt.png
+imlevel_D5CC9657_DB23_5E08_41A9_1FBB7DA23028.url = media/panorama_C75E1B22_D30C_7CBD_41D6_A62810BD069E_HS_6jtk5q2y_pt.png
+imlevel_CA2553B2_DB23_5608_41EB_01C7C9EFE02B.url = media/panorama_C75E3C67_D303_9482_41E3_1FA48FB0A2B3_HS_5y058i2e_pt.png
+imlevel_CB99F33A_DB23_5678_41DB_98D1F3AE09E8.url = media/panorama_C75E3C67_D303_9482_41E3_1FA48FB0A2B3_HS_r63jees2_pt.png
+imlevel_D5CED5A0_DB23_5208_41E0_97342796D1E1.url = media/panorama_C75E7BC3_D303_F382_41E7_A454F4229DF5_HS_wwn88gls_pt.png
+imlevel_CBB60287_DB23_5608_41E7_346665489F2A.url = media/panorama_CB2EF29B_D304_8D82_41E6_923612B77B4D_HS_83ww8rg5_pt.png
+imlevel_D5CF25CE_DB23_5218_41EA_0037B149D25B.url = media/panorama_F3A0FC3C_D304_9486_41D8_7E594F9DE728_HS_6l3i88p2_pt.png
 
 ### Title
 panorama_C532F495_D304_9587_41B9_E0A267A874AC.label = 1 fachada feliz natal EDI
