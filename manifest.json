@@ -1,9 +1,7 @@
 {
- "background_color": "#FFFFFF",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "name": "FRUTA GURT NATAL LUZ",
  "start_url": "index.htm",
+ "name": "FRUTA GURT NATAL LUZ",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +39,7 @@
    "src": "misc/icon64.png"
   }
  ],
+ "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
  "description": "PIRACICABA"
 }
